@@ -1,6 +1,6 @@
 # Rakibul Islam - Full-Stack Web Developer
 
-Welcome to my GitHub profile! I'm Rakibul Islam, a Full-Stack Web Developer specializing in Laravel, ReactJS, and NodeJS. With 2 years of experience, I excel in creating robust and scalable web applications, integrating complex APIs, and optimizing backend systems. My motto is: *"I always try to do my best."* Explore my projects and contributions to see how I can help bring your ideas to life.
+Welcome to my GitHub profile! I'm Rakibul Islam, a Full-Stack Web Developer specializing in Laravel, ReactJS, and NodeJS. With 2 years of experience, I excel in creating robust and scalable web applications, integrating complex APIs, and optimizing backend systems.
 
 ## 📚 About Me
 
