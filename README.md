@@ -23,9 +23,10 @@ Welcome to my GitHub profile! I'm Rakibul Islam, a Full-Stack Web Developer spec
 
 Feel free to reach out for collaborations, project inquiries, or if you have any questions!
 
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/your-profile](https://www.linkedin.com/in/your-profile)
-- **Fiverr:** [fiverr.com/your-profile](https://www.fiverr.com/your-profile)
+- **Email:** [himdrakibulislam@gmail.com](mailto:himdrakibulislam@gmail.com)
+- **LinkedIn:** [linkedin.com/in/himdrakibulislam](https://www.linkedin.com/in/himdrakibulislam)
+- **Fiverr:** [fiverr.com/himdrakib](https://www.fiverr.com/himdrakib)
+- **WhatsApp:** [whatsapp](https://api.whatsapp.com/send?phone=8801775088249)
 
 ---
 
